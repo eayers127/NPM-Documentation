@@ -24,6 +24,7 @@ I have learned more about this through my internship. We have a local site for o
 The script I was looking for was labeled "start". So I ran "npm run start" in the terminal and I got the local site up and running.
 There was also a script named "all" which fires the rest of the scripts in a particular order. This command was helpful when I was pushing a change the code.
 This image shows an example of the scripts located in a package.json file. Each of these scripts can be ran in the terminal.
+
 ![image](https://user-images.githubusercontent.com/71342594/216794650-becb5492-16b3-49a2-9f18-7aed4755b543.png)
 
 
